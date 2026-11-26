@@ -22,3 +22,7 @@ This project analyzes job application data to identify hiring trends, applicatio
 ## Files
 - `Job_Application_Data_Analysis.ipynb` – Complete analysis, code, outputs, and visualizations.
 - `README.md` – Project overview and findings.
+
+## AI Assistance Disclosure
+
+ChatGPT was used for assistance with Python code, data analysis workflow, visualization, and structuring the findings. The analysis was executed and reviewed using the dataset, and the final submission was checked by the author.
